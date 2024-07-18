@@ -1,0 +1,164 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+    background-color: rgb(125, 178, 176);
+}
+.main{
+    justify-content: center;
+    align-content: center;
+    width: 30%;
+    text-align: center;
+   
+    background-color: rgb(37, 40, 11);
+    margin-left: 35%;
+    margin-top: 5%;
+    height: 440px;
+    border-radius: 30px 30px 30px 30px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: thick;
+}
+.bset1{
+    padding-top: 4%;
+    width: 100%;
+    
+}
+.bset1 button{
+    background-color: rgb(67, 94, 128);
+    width: 22%;
+    height: 15%;
+    text-align: center;
+    border-color:black;
+    border-radius: 30px 30px 30px 30px;
+    border-width: unset;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.bset2{
+    padding-top: 3%;
+    width: 100%;
+    
+}
+.bset2 button{
+    background-color:  rgb(67, 94, 128);
+    width: 22%;
+    height: 15%;
+    text-align: center;
+    border-color:black;
+    border-radius: 30px 30px 30px 30px;
+    font-size: 20px;
+    border-width: unset;
+    font-weight: bold;
+    
+}
+.bset3{
+    padding-top: 3%;
+    width: 100%;
+    
+}
+.bset3 button{
+    background-color: rgb(67, 94, 128);
+    width: 22%;
+    height: 15%;
+    text-align: center;
+    border-color:black;
+    border-radius: 30px 30px 30px 30px;
+    font-size: 20px;
+    border-width: unset;
+    font-weight: bold;
+    
+}
+.bset4{
+    padding-top: 3%;
+    width: 100%;
+    
+}
+.bset4 button{
+    background-color: rgb(67, 94, 128);
+    width: 22%;
+    height: 15%;
+    text-align: center;
+    border-color:black;
+    border-radius: 30px 30px 30px 30px;
+    font-size: 20px;
+    border-width: unset;
+    font-weight: bold;
+    
+}
+.bset5{
+    padding-top: 3%;
+    width: 100%;
+    
+}
+.bset5 button{
+    background-color: blueviolet;
+    width: 22%;
+    height: 15%;
+    text-align: center;
+    border-color:black;
+    border-radius: 30px 30px 30px 30px;
+    font-size: 20px;
+    border-width: unset;
+    font-weight: bold;
+}
+#equal{
+    width: 45%;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: orange;
+
+}
+#result{
+    border-color:black;
+    border-radius:10px 10px 10px 10px ;
+    border-style: groove;
+    width: 97%;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+    height: 45px;
+    text-align: right;
+    color: black;
+    font-size: 30px;
+    border-width: thick;
+   
+}
+.h1text{
+    margin-bottom: 5%;
+    font-family: "Rubik Glitch Pop", system-ui;
+    color: rgb(184, 169, 146);
+    font-weight: bold;
+    text-shadow: mediumblue 2% 4% 6% 8%;
+}
+
+.calctext{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  
+}
+#mul{
+    background-color: orange;
+}
+
+#sub{
+    background-color: orange;
+}
+#add{
+    background-color: orange;
+}
+#divide{
+    background-color: orange;
+}
+#del{
+    background-color: orange;
+}
+#ac{
+    background-color: orange;
+}
+
+
+
